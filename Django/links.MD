@@ -1,0 +1,1 @@
+https://github.com/lucrae/django-cheat-sheet
