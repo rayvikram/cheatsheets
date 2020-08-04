@@ -1,1 +1,2 @@
-https://github.com/lucrae/django-cheat-sheet
+- https://github.com/rayvikram/django-cheat-sheet
+- https://github.com/lucrae/django-cheat-sheet (original)
